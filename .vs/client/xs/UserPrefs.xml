@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="多个项目">
+  <MonoDevelop.Ide.ItemProperties.client PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Server PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="client" expanded="True">
+            <Node name="client" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Server" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>AddressHelper/AddressHelper.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="多个项目" Name="多个项目">
+      <Items>
+        <StartupItem ItemId="{D08149F3-400D-4BC9-B006-676B7839BA4D}" ItemName="client" ConfigurationId="Default" />
+        <StartupItem ItemId="{8E96A2AF-37F9-429C-9413-F9C332C96836}" ItemName="Server" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+</Properties>

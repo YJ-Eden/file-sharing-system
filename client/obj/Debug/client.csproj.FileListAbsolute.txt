@@ -1,0 +1,9 @@
+/Users/eden/Documents/study/OOAD/client/client/bin/Debug/client.exe
+/Users/eden/Documents/study/OOAD/client/client/bin/Debug/client.pdb
+/Users/eden/Documents/study/OOAD/client/client/obj/Debug/client.csprojAssemblyReference.cache
+/Users/eden/Documents/study/OOAD/client/client/obj/Debug/client.csproj.CoreCompileInputs.cache
+/Users/eden/Documents/study/OOAD/client/client/obj/Debug/client.exe
+/Users/eden/Documents/study/OOAD/client/client/obj/Debug/client.pdb
+/Users/eden/Documents/study/OOAD/client/client/bin/Debug/MyNetworkLibrary.dll
+/Users/eden/Documents/study/OOAD/client/client/bin/Debug/MyNetworkLibrary.pdb
+/Users/eden/Documents/study/OOAD/client/client/obj/Debug/client.csproj.CopyComplete

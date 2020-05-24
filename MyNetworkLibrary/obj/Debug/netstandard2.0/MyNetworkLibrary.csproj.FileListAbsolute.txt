@@ -1,0 +1,9 @@
+/Users/eden/Documents/study/OOAD/client/MyNetworkLibrary/bin/Debug/netstandard2.0/MyNetworkLibrary.deps.json
+/Users/eden/Documents/study/OOAD/client/MyNetworkLibrary/bin/Debug/netstandard2.0/MyNetworkLibrary.dll
+/Users/eden/Documents/study/OOAD/client/MyNetworkLibrary/bin/Debug/netstandard2.0/MyNetworkLibrary.pdb
+/Users/eden/Documents/study/OOAD/client/MyNetworkLibrary/obj/Debug/netstandard2.0/MyNetworkLibrary.csprojAssemblyReference.cache
+/Users/eden/Documents/study/OOAD/client/MyNetworkLibrary/obj/Debug/netstandard2.0/MyNetworkLibrary.csproj.CoreCompileInputs.cache
+/Users/eden/Documents/study/OOAD/client/MyNetworkLibrary/obj/Debug/netstandard2.0/MyNetworkLibrary.AssemblyInfoInputs.cache
+/Users/eden/Documents/study/OOAD/client/MyNetworkLibrary/obj/Debug/netstandard2.0/MyNetworkLibrary.AssemblyInfo.cs
+/Users/eden/Documents/study/OOAD/client/MyNetworkLibrary/obj/Debug/netstandard2.0/MyNetworkLibrary.dll
+/Users/eden/Documents/study/OOAD/client/MyNetworkLibrary/obj/Debug/netstandard2.0/MyNetworkLibrary.pdb

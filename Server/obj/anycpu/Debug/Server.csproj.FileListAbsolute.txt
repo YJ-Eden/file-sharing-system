@@ -1,0 +1,9 @@
+/Users/eden/Documents/study/OOAD/client/Server/bin/Debug/Server.exe
+/Users/eden/Documents/study/OOAD/client/Server/bin/Debug/Server.pdb
+/Users/eden/Documents/study/OOAD/client/Server/bin/Debug/MyNetworkLibrary.dll
+/Users/eden/Documents/study/OOAD/client/Server/bin/Debug/MyNetworkLibrary.pdb
+/Users/eden/Documents/study/OOAD/client/Server/obj/anycpu/Debug/Server.csprojAssemblyReference.cache
+/Users/eden/Documents/study/OOAD/client/Server/obj/anycpu/Debug/Server.csproj.CoreCompileInputs.cache
+/Users/eden/Documents/study/OOAD/client/Server/obj/anycpu/Debug/Server.csproj.CopyComplete
+/Users/eden/Documents/study/OOAD/client/Server/obj/anycpu/Debug/Server.exe
+/Users/eden/Documents/study/OOAD/client/Server/obj/anycpu/Debug/Server.pdb
